@@ -19,3 +19,8 @@ nav a {
   padding:5px 10px 5px 10px;
 }
 
+.premium {
+  background-color: #9DDCFF;
+  font-family:'Montserrat Alternates', sans-serif;
+  font-weight: 200;
+}
