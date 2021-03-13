@@ -1,0 +1,10 @@
+header {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+}
+
