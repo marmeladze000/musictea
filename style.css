@@ -23,9 +23,9 @@ nav a {
   background-color: #9DDCFF;
   font-family:'Montserrat Alternates', sans-serif;
   font-weight: 100;
+  width: 50%;
 }
 
-.premium p {
+.name {
   font-family: 'Bebas Neue', cursive;
-  width: 50%;
 }
