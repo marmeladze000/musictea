@@ -22,5 +22,9 @@ nav a {
 .premium {
   background-color: #9DDCFF;
   font-family:'Montserrat Alternates', sans-serif;
-  font-weight: 200;
+  font-weight: 100;
+}
+
+.premium p {
+  font-family: 'Bebas Neue', cursive;
 }
